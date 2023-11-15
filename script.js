@@ -1,6 +1,4 @@
-//selectam butoanele pe categorii si le salvam in variabile
-//definim functii pt operatiunile de adunare, scadere, inmultire, impartire
-//ascultam click-urile si facem logica pt fiecare operatiune posibila
+
 
 const resetButton = document.querySelector('.c-button');
 const deleteButton = document.querySelector('.arrow-button');
